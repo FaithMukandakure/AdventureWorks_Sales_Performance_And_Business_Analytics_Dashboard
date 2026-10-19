@@ -91,4 +91,15 @@ Faith Mukandakure
 
 MS in Accounting & Analytics
 
+## Dashboard Screenshots
+
+### 1. Executive Sales Overview
+![Executive Sales Overview](Executive%20Summary.png)
+
+### 2. Product & Customer Analysis
+![Product and Customer Analysis](Product%20And%20Customer%20Analysis.png)
+
+### 3. Geography & Returns Analysis
+![Geography and Returns Analysis](Geography%20And%20Returns%20Analysis.png)
+
 Focus: Financial Analysis | Business Intelligence | Power BI | Data Analytics
