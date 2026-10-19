@@ -90,7 +90,6 @@ AdventureWorks sample dataset, used for educational and portfolio purposes.
 Faith Mukandakure
 
 MS in Accounting & Analytics
-
 ## Dashboard Screenshots
 
 ### 1. Executive Sales Overview
@@ -100,6 +99,5 @@ MS in Accounting & Analytics
 ![Product and Customer Analysis](Product%20And%20Customer%20Analysis.png)
 
 ### 3. Geography & Returns Analysis
-![Geography and Returns Analysis](Geography%20And%20Returns%20Analysis.png)
+![Geography and Returns Analysis](Geography%20And%20Returns%20Analyis.png)
 
-Focus: Financial Analysis | Business Intelligence | Power BI | Data Analytics
