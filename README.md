@@ -90,6 +90,12 @@ AdventureWorks sample dataset, used for educational and portfolio purposes.
 Faith Mukandakure
 
 MS in Accounting & Analytics
+
+## Live Interactive Power BI Dashboard
+
+[**View My Interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMWMxMGFmNjMtNTEyZC00MWY5LTg3OTQtMTk3NDhkMzYyNDRiIiwidCI6ImJjMTBlMDUyLWIwMWMtNDg0OS05OTY3LWVlN2VjNzRmYzlkOCIsImMiOjZ9)
+
+Explore three interactive report pages covering executive sales performance, product and customer analysis, and geographic performance and product returns. Use the filters and slicers to explore trends, profitability, and business insights.
 ## Dashboard Screenshots
 
 ### 1. Executive Sales Overview
